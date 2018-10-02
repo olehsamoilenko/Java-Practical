@@ -12,6 +12,8 @@ public class Main {
         for(AirTour tour : list) {
             System.out.printf("%d %s\n", counter++, tour.name);
         }
+        if (list.size() == 0)
+            System.out.println("The list is clear");
         System.out.println();
     }
 
