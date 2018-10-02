@@ -133,7 +133,10 @@ public class Main {
         }
     }
 
-    static ArrayList<AirTour> toursByOperator(ArrayList<AirTour> listOfTours, String operator) {
+    static ArrayList<AirTour> toursByOperator(ArrayList<AirTour> listOfTours) {
+        Scanner in = new Scanner(System.in);
+        System.out.print("Enter the operator for searching: ");
+        String operator = in.nextLine();
         ArrayList<AirTour> toursByOperator = new ArrayList<>();
         for(AirTour tour : listOfTours) {
             if (operator.equals(tour.getOperator()))
@@ -142,7 +145,10 @@ public class Main {
         return (toursByOperator);
     }
 
-    static ArrayList<AirTour> toursByPoint(ArrayList<AirTour> listOfTours, String point) {
+    static ArrayList<AirTour> toursByPoint(ArrayList<AirTour> listOfTours) {
+        Scanner in = new Scanner(System.in);
+        System.out.print("Enter the point for searching: ");
+        String point = in.nextLine();
         ArrayList<AirTour> toursByPoint = new ArrayList<>();
         for(AirTour tour : listOfTours) {
             boolean res = false;
@@ -156,7 +162,12 @@ public class Main {
         return (toursByPoint);
     }
 
-    static ArrayList<AirTour> toursByDate(ArrayList<AirTour> listOfTours, int month, int day) {
+    static ArrayList<AirTour> toursByDate(ArrayList<AirTour> listOfTours) {
+        Scanner in = new Scanner(System.in);
+        System.out.print("Enter the month for searching: ");
+        int month = in.nextInt();
+        System.out.print("Enter the day for searching: ");
+        int day = in.nextInt();
         ArrayList<AirTour> toursByDate = new ArrayList<>();
         for(AirTour tour : listOfTours) {
             GregorianCalendar date = tour.getDate();
@@ -175,11 +186,11 @@ public class Main {
         for(AirTour tour : tours) {
             tour.ShowInfo();
         }
-        ArrayList<AirTour> tours1 = toursByOperator(tours, "Ukraine Your Way");
+        ArrayList<AirTour> tours1 = toursByOperator(tours);
         showList(tours1);
-        ArrayList<AirTour> tours2 = toursByPoint(tours, "Foix");
+        ArrayList<AirTour> tours2 = toursByPoint(tours);
         showList(tours2);
-        ArrayList<AirTour> tours3 = toursByDate(tours, 10, 7);
+        ArrayList<AirTour> tours3 = toursByDate(tours);
         showList(tours3);
     }
 }
