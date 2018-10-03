@@ -3,7 +3,7 @@ package com.company;
 import java.util.GregorianCalendar;
 
 public class AirTour {
-    public String name;
+    private String name;
     private String operator;
     private String[] points;
     private double price;
@@ -23,6 +23,10 @@ public class AirTour {
         this.amount = amount;
         this.open = open;
         this.date = date;
+    }
+
+    public String getName() {
+        return (name);
     }
 
     public String getOperator() {
@@ -45,7 +49,7 @@ public class AirTour {
         return (open);
     }
 
-    public void ShowInfo() {
+    public void showInfo() {
         System.out.printf("Name: %s\n", name);
         System.out.printf("Tour operator: %s\n", operator);
         String listOfPoints = "";
@@ -61,4 +65,17 @@ public class AirTour {
         System.out.printf("Date of start: %s\n", date.getTime());
         System.out.println();
     }
+
+//    public String toString() {
+//        String listOfPoints = "";
+//        for(int i = 0; i < points.length; i++) {
+//            listOfPoints += points[i];
+//            if (i != points.length - 1)
+//                listOfPoints += ", ";
+//        }
+//        String result = sprintf("%15s|%15s|%30s|%3d|%3d|%3d|%3d.%3d\n",
+//                name, operator, listOfPoints, price, amount, open,
+//                date.get(GregorianCalendar.DAY_OF_MONTH), date.get(GregorianCalendar.MONTH));
+//        return()
+//    }
 }

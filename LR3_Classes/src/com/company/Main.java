@@ -7,7 +7,7 @@ public class Main {
     static void showList(ArrayList<AirTour> list) {
         int counter = 1;
         for(AirTour tour : list) {
-            System.out.printf("%d %s\n", counter++, tour.name);
+            System.out.printf("%d %s\n", counter++, tour.getName());
         }
         if (list.size() == 0)
             System.out.println("The list is clear");
@@ -128,6 +128,7 @@ public class Main {
             }
             catch (InputMismatchException e) {
                 System.out.println("Error");
+                System.exit(1);
             }
         }
     }
@@ -179,10 +180,14 @@ public class Main {
     }
 
     public static void main(String[] args) {
+        // LIST -> ARRAY
+        // showInfo -> toString
+        // error exceptions
+        // private static methods
         ArrayList<AirTour> tours = createBase(10);
         readTours(tours);
         for(AirTour tour : tours) {
-            tour.ShowInfo();
+            tour.showInfo();
         }
         ArrayList<AirTour> tours1 = toursByOperator(tours);
         showList(tours1);
