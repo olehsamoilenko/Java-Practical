@@ -1,8 +1,5 @@
 package com.company;
 
-import java.awt.image.AreaAveragingScaleFilter;
-import java.io.IOError;
-import java.io.IOException;
 import java.util.*;
 
 public class Main {
@@ -180,7 +177,6 @@ public class Main {
         }
         return (toursByDate);
     }
-
 
     public static void main(String[] args) {
         ArrayList<AirTour> tours = createBase(10);
