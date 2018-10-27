@@ -1,6 +1,7 @@
 package com.company;
 
 import java.util.GregorianCalendar;
+import java.util.Random;
 
 public class AirTour {
     private String name;
@@ -10,6 +11,7 @@ public class AirTour {
     private int amount;
     private int open;
     private GregorianCalendar date;
+    static int num = 0;
 
     public AirTour() {
 
@@ -49,33 +51,86 @@ public class AirTour {
         return (open);
     }
 
-    public void showInfo() {
-        System.out.printf("Name: %s\n", name);
-        System.out.printf("Tour operator: %s\n", operator);
+    public String toString() {
         String listOfPoints = "";
         for(int i = 0; i < points.length; i++) {
             listOfPoints += points[i];
             if (i != points.length - 1)
                 listOfPoints += ", ";
         }
-        System.out.printf("Points: %s\n", listOfPoints);
-        System.out.printf("Price: %.2f$\n", price);
-        System.out.printf("Amount of people: %d\n", amount);
-        System.out.printf("Open sits: %d\n", open);
-        System.out.printf("Date of start: %s\n", date.getTime());
-        System.out.println();
+        String result = String.format("%-15s| %-25s| %-60s|%7.2f$|%2d/%-3d| %02d.%02d.%d",
+                name, operator, listOfPoints, price, open, amount,
+                date.get(GregorianCalendar.DAY_OF_MONTH), date.get(GregorianCalendar.MONTH),
+                date.get(GregorianCalendar.YEAR));
+        return(result);
     }
 
-//    public String toString() {
-//        String listOfPoints = "";
-//        for(int i = 0; i < points.length; i++) {
-//            listOfPoints += points[i];
-//            if (i != points.length - 1)
-//                listOfPoints += ", ";
-//        }
-//        String result = sprintf("%15s|%15s|%30s|%3d|%3d|%3d|%3d.%3d\n",
-//                name, operator, listOfPoints, price, amount, open,
-//                date.get(GregorianCalendar.DAY_OF_MONTH), date.get(GregorianCalendar.MONTH));
-//        return()
-//    }
+    static String[] generatePoints() {
+        String[] pointsForVisiting =
+                {
+                        "Albi",
+                        "Auch",
+                        "Cahors",
+                        "Castres",
+                        "Foix",
+                        "Gavarnie",
+                        "Lourdes",
+                        "Millau",
+                        "Montauban",
+                        "Rocamadour",
+                        "Rodez",
+                        "Saint-Affrique",
+                        "Tarbes",
+                        "Toulouse",
+                        "Antequera",
+                        "Coín",
+                        "Málaga",
+                        "Melilla",
+                        "Ronda"
+                };
+        Random rand = new Random();
+        String[] list = new String[rand.nextInt(5) + 1];
+        for(int i = 0; i < list.length; i++) {
+            list[i] = pointsForVisiting[rand.nextInt(pointsForVisiting.length)];
+        }
+        return (list);
+    }
+
+    private static String generateName() {
+
+        Random rand = new Random();
+        String name = "Tour" + num++;
+        int type = rand.nextInt(3);
+        if (type == 1)
+            name = "Good" + name;
+        if (type == 2)
+            name = "Awesome" + name;
+        return (name);
+    }
+
+    private static String generateOperator() {
+        String[] operators =
+                {
+                        "Oasis Travel Ukraine",
+                        "Green Tour Ukraine LLC",
+                        "Ukraine Your Way",
+                        "Four Travel Ukraine TOV"
+                };
+        Random rand = new Random();
+        return (operators[rand.nextInt(operators.length)]);
+    }
+
+    private static GregorianCalendar generateDate() {
+        Random rand = new Random();
+        GregorianCalendar calendar = new GregorianCalendar();
+        calendar.add(GregorianCalendar.DAY_OF_YEAR, rand.nextInt(60));
+        return (calendar);
+    }
+
+    public static AirTour generate() {
+        Random rand = new Random();
+        return (new AirTour(generateName(), generateOperator(), generatePoints(),
+                rand.nextDouble() * 1000, rand.nextInt(50) + 1,
+                rand.nextInt(3), generateDate()));
+    }
 }
