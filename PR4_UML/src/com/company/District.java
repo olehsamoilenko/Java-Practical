@@ -31,6 +31,13 @@ public class District {
         else {
             res = String.format("%s, Approved: no", res);
         }
+        if (inspector != null) {
+            res = String.format("%s, Inspector: %s %s",
+                    res, inspector.getName(), inspector.getSurname());
+        }
+        else {
+            res = String.format("%s, Inspector: undefined", res);
+        }
 
         return (res);
     }

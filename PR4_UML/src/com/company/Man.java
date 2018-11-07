@@ -3,6 +3,7 @@ package com.company;
 public abstract class Man {
     protected String name;
     protected String surname;
+    protected Container applications = new Container("applications");
 
     public Man(String name, String surname) {
         this.name = name;
@@ -21,6 +22,18 @@ public abstract class Man {
     }
     public void setSurname(String surname) {
         this.surname = surname;
+    }
+
+
+
+    public void makeApplication(Man to, String message) {
+        to.addApplication(new Application(message, this));
+    }
+    public void addApplication(Application application) {
+        applications.add(application);
+    }
+    public void showApplications() {
+        applications.show();
     }
 
 

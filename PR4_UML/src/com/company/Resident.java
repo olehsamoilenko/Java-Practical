@@ -8,11 +8,7 @@ public class Resident extends Man {
         super(name, surname);
     }
 
-    public void makeApplication(String message) {
-        System.out.println(String.format("Application to %s %s from %s district:\n%s.",
-                district.getInspector().getName(), district.getInspector().getSurname(),
-                district.getInspector().getDistrict().getName(), message));
-    }
+
 
     public String toString() {
         if (address != null) {
@@ -20,7 +16,7 @@ public class Resident extends Man {
                     name, surname, address, district.getName()));
         }
         else {
-            return (String.format("Resident. Name: %s, Surname: %s, Address: undefined",
+            return (String.format("Resident. Name: %s, Surname: %s, Address: undefined, District: undefined",
                     name, surname));
         }
     }

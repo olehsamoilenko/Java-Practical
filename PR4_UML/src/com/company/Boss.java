@@ -16,7 +16,7 @@ public class Boss extends Man {
     }
 
     public void distributeDistrict(District district, Inspector inspector) {
-        if (district.getApproved()) {
+        if (district.getApproved() == true) {
             inspector.setDistrict(district);
             district.setInspector(inspector);
             System.out.println("District distributing done");
@@ -24,7 +24,6 @@ public class Boss extends Man {
         else {
             System.out.println("District is not distributed. It's not approved");
         }
-
     }
 
     public String toString() {
@@ -34,8 +33,7 @@ public class Boss extends Man {
             if (i != 0) {
                 dist += ", ";
             }
-            dist += ((Boss)districts.get(i)).getName();
-
+            dist += ((District)districts.get(i)).getName();
         }
         if (dist == "") {
             dist = "undefined";

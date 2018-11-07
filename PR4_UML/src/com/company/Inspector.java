@@ -15,28 +15,19 @@ public class Inspector extends Man {
             System.out.println("Registration done");
         }
         else {
-            System.out.println("Registration is not completed. There is a problem with the ispector's district");
+            System.out.println("Registration is not completed. There is a problem with the inspector's district");
         }
     }
 
     public void removeRegistration(Resident resident) {
         resident.setAddress(null);
         district.removeResident(resident);
+        System.out.println("Registration removed");
     }
 
-    public void showResidents() {
-        Container residents = district.getResidents();
-        int i = -1;
-        while (++i < residents.length()) {
-            System.out.println(residents.get(i).toString());
-        }
-    }
 
-    public void makeQuery(Resident resident, String message) {
-        System.out.println(String.format("Query to %s %s from %s %s:\n%s",
-                resident.getName(), resident.getSurname(),
-                name, surname, message));
-    }
+
+
 
     public String toString() {
         if (district != null) {
