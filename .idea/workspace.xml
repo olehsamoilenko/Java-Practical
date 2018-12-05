@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f3ddbde-d3f0-46ab-a4e9-557f798f6ec2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/LR1_Arrays/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR1_Arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR1_Arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR1_Arrays/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR1_Arrays/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR1_Arrays/LR1_Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR1_Arrays/out/production/LR1_Arrays/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR1_Arrays/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR2_Strings/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR2_Strings/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR2_Strings/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR2_Strings/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR2_Strings/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR2_Strings/LR2_Strings.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR2_Strings/out/production/LR2_Strings/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR2_Strings/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR3_Classes/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR3_Classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR3_Classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR3_Classes/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR3_Classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR3_Classes/LR3_Classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR3_Classes/out/production/LR3_Classes/com/company/AirTour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR3_Classes/out/production/LR3_Classes/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR3_Classes/src/com/company/AirTour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR3_Classes/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/PR4_UML.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/out/production/PR4_UML/com/company/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/out/production/PR4_UML/com/company/Boss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/out/production/PR4_UML/com/company/Container.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/out/production/PR4_UML/com/company/District.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/out/production/PR4_UML/com/company/Inspector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/out/production/PR4_UML/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/out/production/PR4_UML/com/company/Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/out/production/PR4_UML/com/company/Resident.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/src/com/company/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/src/com/company/Boss.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/src/com/company/Container.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/src/com/company/District.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/src/com/company/Inspector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/src/com/company/Man.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR4_UML/src/com/company/Resident.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Практичне завдання 1_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Практичне завдання 1_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Практичне завдання 1_3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Практичне завдання 1_4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/слайды_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/слайды_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/слайды_3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/слайды_4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/слайды_5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/слайды_6.pdf" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AirTour.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LR2.1_Exceptions/src/com/company/AirTour.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1467" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LR2.1_Exceptions/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-153" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="540" />
+    <option name="width" value="1385" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java-Practical" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Practical" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practical" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Practical" type="462c0819:PsiDirectoryNode" />
+              <item name="LR2.1_Exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practical" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Practical" type="462c0819:PsiDirectoryNode" />
+              <item name="LR2.1_Exceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practical" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Practical" type="462c0819:PsiDirectoryNode" />
+              <item name="LR2.1_Exceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practical" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Practical" type="462c0819:PsiDirectoryNode" />
+              <item name="LR2.1_Exceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LR5_Exceptions" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f3ddbde-d3f0-46ab-a4e9-557f798f6ec2" name="Default" comment="" />
+      <created>1543218351482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543218351482</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17773438" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LR2.1_Exceptions/src/com/company/AirTour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1467" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LR2.1_Exceptions/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

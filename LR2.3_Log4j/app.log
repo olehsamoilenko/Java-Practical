@@ -1,0 +1,414 @@
+2018-12-02 14:30:53 INFO  [main]:86 - App is on
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: GoodTour0
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Albi, Cahors, Millau
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 23.11.2018
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour GoodTour0 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: GoodTour1
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Cahors, Antequera, Rocamadour, Auch
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 15.11.2018
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour GoodTour1 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: Tour2
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Toulouse, Tarbes, Lourdes, Saint-Affrique, Rocamadour
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 11.11.2018
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour Tour2 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: GoodTour3
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Saint-Affrique, Coín, Málaga
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 23.0.2019
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour GoodTour3 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: AwesomeTour4
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Gavarnie, Millau, Rocamadour
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 6.11.2018
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour AwesomeTour4 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: AwesomeTour5
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Saint-Affrique, Rodez, Coín, Tarbes, Antequera
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 27.0.2019
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour AwesomeTour5 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: Tour6
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Auch, Ronda
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 16.11.2018
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour Tour6 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: GoodTour7
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Málaga, Málaga, Rodez, Ronda, Lourdes
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 19.0.2019
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour GoodTour7 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: Tour8
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Cahors
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 23.0.2019
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour Tour8 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: AwesomeTour9
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Saint-Affrique
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 15.11.2018
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour AwesomeTour9 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: GoodTour10
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Foix
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 14.0.2019
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour GoodTour10 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: AwesomeTour11
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Foix, Montauban, Montauban, Tarbes
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 4.0.2019
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour AwesomeTour11 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: AwesomeTour12
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Tarbes
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 17.11.2018
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour AwesomeTour12 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: AwesomeTour13
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Albi, Lourdes, Toulouse, Tarbes, Rodez
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 8.0.2019
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour AwesomeTour13 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: GoodTour14
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Melilla, Antequera, Auch
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 17.0.2019
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour GoodTour14 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: GoodTour15
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Auch, Ronda
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 27.11.2018
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour GoodTour15 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: AwesomeTour16
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Millau, Montauban, Coín, Rodez, Rocamadour
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 27.11.2018
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour AwesomeTour16 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: GoodTour17
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Albi, Antequera
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 10.11.2018
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour GoodTour17 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: GoodTour18
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Gavarnie, Rocamadour, Coín
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 2.0.2019
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour GoodTour18 saved
+2018-12-02 14:30:55 INFO  [main]:113 - Tour name generated automatically: GoodTour19
+2018-12-02 14:30:55 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-02 14:30:55 INFO  [main]:100 - List of points generated automatically: Ronda, Albi, Foix, Antequera, Foix
+2018-12-02 14:30:55 INFO  [main]:135 - Tour date generated automatically: 3.11.2018
+2018-12-02 14:30:55 INFO  [main]:27 - AirTour GoodTour19 saved
+2018-12-02 14:30:55 INFO  [main]:92 - App is off
+2018-12-02 14:32:56 INFO  [main]:86 - App is on
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: AwesomeTour0
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Auch, Castres, Cahors, Montauban, Lourdes
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 2.0.2019
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour AwesomeTour0 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: AwesomeTour1
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Albi, Gavarnie, Foix, Toulouse
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 30.0.2019
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour AwesomeTour1 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: AwesomeTour2
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Lourdes, Castres, Auch
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 30.0.2019
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour AwesomeTour2 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: Tour3
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Melilla
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 12.0.2019
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour Tour3 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: AwesomeTour4
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Lourdes
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 26.11.2018
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour AwesomeTour4 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: AwesomeTour5
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Rocamadour, Cahors, Saint-Affrique, Toulouse
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 12.0.2019
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour AwesomeTour5 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: Tour6
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Rodez, Montauban
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 7.11.2018
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour Tour6 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: Tour7
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Saint-Affrique, Rodez, Antequera, Albi, Cahors
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 15.0.2019
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour Tour7 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: GoodTour8
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Coín, Gavarnie, Albi, Málaga
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 29.11.2018
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour GoodTour8 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: GoodTour9
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Gavarnie, Auch, Ronda, Cahors, Coín
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 4.0.2019
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour GoodTour9 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: Tour10
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Rodez
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 10.11.2018
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour Tour10 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: AwesomeTour11
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Rocamadour, Auch
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 28.11.2018
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour AwesomeTour11 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: Tour12
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Cahors
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 20.0.2019
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour Tour12 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: GoodTour13
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Auch
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 24.11.2018
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour GoodTour13 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: AwesomeTour14
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Millau, Tarbes, Auch
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 4.11.2018
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour AwesomeTour14 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: GoodTour15
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Auch
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 6.11.2018
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour GoodTour15 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: AwesomeTour16
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Gavarnie
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 11.0.2019
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour AwesomeTour16 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: Tour17
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Millau, Albi, Tarbes
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 19.11.2018
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour Tour17 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: GoodTour18
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Rodez, Albi
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 16.11.2018
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour GoodTour18 saved
+2018-12-02 14:33:01 INFO  [main]:113 - Tour name generated automatically: AwesomeTour19
+2018-12-02 14:33:01 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-02 14:33:01 INFO  [main]:100 - List of points generated automatically: Ronda, Antequera, Melilla, Ronda, Coín
+2018-12-02 14:33:01 INFO  [main]:135 - Tour date generated automatically: 22.11.2018
+2018-12-02 14:33:01 INFO  [main]:27 - AirTour AwesomeTour19 saved
+2018-12-02 14:33:01 INFO  [main]:92 - App is off
+2018-12-03 10:55:09 INFO  [main]:86 - App is on
+2018-12-03 11:01:14 INFO  [main]:86 - App is on
+2018-12-03 11:22:06 INFO  [main]:84 - App is on
+2018-12-03 11:22:14 INFO  [main]:84 - App is on
+2018-12-03 11:22:32 ERROR [main]:4 - Tour name cannot be an empty string
+2018-12-03 11:22:41 ERROR [main]:4 - Tour operator cannot be an empty string
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: Tour0
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Antequera, Rocamadour, Coín
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 11.11.2018
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour Tour0 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: Tour1
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Antequera, Auch, Rocamadour, Ronda, Saint-Affrique
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 31.11.2018
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour Tour1 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: AwesomeTour2
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Antequera
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 17.0.2019
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour AwesomeTour2 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: Tour3
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Auch, Málaga, Castres, Coín
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 9.0.2019
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour Tour3 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: GoodTour4
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Toulouse
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 28.0.2019
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour GoodTour4 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: GoodTour5
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Saint-Affrique, Auch
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 23.11.2018
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour GoodTour5 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: GoodTour6
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Coín
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 8.11.2018
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour GoodTour6 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: AwesomeTour7
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Melilla, Rocamadour
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 14.0.2019
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour AwesomeTour7 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: Tour8
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Foix, Coín
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 7.11.2018
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour Tour8 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: GoodTour9
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Saint-Affrique, Foix
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 10.11.2018
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour GoodTour9 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: AwesomeTour10
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Melilla, Castres, Cahors, Auch
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 30.0.2019
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour AwesomeTour10 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: AwesomeTour11
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Gavarnie, Auch
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 27.0.2019
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour AwesomeTour11 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: Tour12
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Toulouse, Lourdes, Lourdes
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 5.0.2019
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour Tour12 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: Tour13
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Millau, Ronda, Tarbes, Toulouse
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 18.11.2018
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour Tour13 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: Tour14
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Antequera, Montauban, Melilla, Gavarnie
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 15.0.2019
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour Tour14 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: GoodTour15
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Millau, Castres, Rocamadour, Albi
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 6.11.2018
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour GoodTour15 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: Tour16
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Coín, Rodez
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 23.0.2019
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour Tour16 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: Tour17
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Lourdes, Albi, Castres, Foix
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 12.0.2019
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour Tour17 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: Tour18
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Cahors, Saint-Affrique, Lourdes, Melilla
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 24.11.2018
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour Tour18 saved
+2018-12-03 11:22:45 INFO  [main]:113 - Tour name generated automatically: AwesomeTour19
+2018-12-03 11:22:45 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-03 11:22:45 INFO  [main]:100 - List of points generated automatically: Foix
+2018-12-03 11:22:45 INFO  [main]:135 - Tour date generated automatically: 14.11.2018
+2018-12-03 11:22:45 INFO  [main]:27 - AirTour AwesomeTour19 saved
+2018-12-03 11:22:45 INFO  [main]:90 - App is off
+2018-12-03 11:40:26 INFO  [main]:86 - App is on
+2018-12-03 11:40:38 ERROR [main]:78 - EmptyStringException: Tour operator cannot be an empty string
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: AwesomeTour0
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Tarbes, Málaga
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 20.0.2019
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour AwesomeTour0 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: Tour1
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Ronda, Rocamadour, Foix, Foix
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 10.11.2018
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour Tour1 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: AwesomeTour2
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Lourdes, Toulouse, Gavarnie, Cahors
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 21.0.2019
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour AwesomeTour2 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: Tour3
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Cahors, Rocamadour
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 15.11.2018
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour Tour3 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: AwesomeTour4
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Lourdes, Montauban, Rodez
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 6.11.2018
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour AwesomeTour4 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: GoodTour5
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Foix, Albi, Toulouse, Albi, Saint-Affrique
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 4.11.2018
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour GoodTour5 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: AwesomeTour6
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Coín, Tarbes, Millau, Millau
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 3.11.2018
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour AwesomeTour6 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: GoodTour7
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Melilla, Albi, Lourdes
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 16.0.2019
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour GoodTour7 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: AwesomeTour8
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Saint-Affrique, Gavarnie
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 31.11.2018
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour AwesomeTour8 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: Tour9
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Rodez, Albi, Cahors, Coín
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 28.0.2019
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour Tour9 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: Tour10
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Auch, Lourdes
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 27.0.2019
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour Tour10 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: AwesomeTour11
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Antequera, Montauban, Millau
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 18.11.2018
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour AwesomeTour11 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: AwesomeTour12
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Gavarnie, Antequera, Auch
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 6.0.2019
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour AwesomeTour12 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: GoodTour13
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Saint-Affrique, Lourdes
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 15.0.2019
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour GoodTour13 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: Tour14
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Four Travel Ukraine TOV
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Lourdes, Auch, Montauban, Foix, Málaga
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 1.0.2019
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour Tour14 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: Tour15
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Melilla, Millau, Melilla, Málaga, Gavarnie
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 18.0.2019
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour Tour15 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: Tour16
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Green Tour Ukraine LLC
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Rocamadour, Castres, Auch
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 6.11.2018
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour Tour16 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: AwesomeTour17
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Cahors, Cahors, Málaga, Coín, Rocamadour
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 13.0.2019
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour AwesomeTour17 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: GoodTour18
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Oasis Travel Ukraine
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Rodez, Saint-Affrique, Lourdes
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 6.0.2019
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour GoodTour18 saved
+2018-12-03 11:40:53 INFO  [main]:113 - Tour name generated automatically: GoodTour19
+2018-12-03 11:40:53 INFO  [main]:127 - Tour operator generated automatically: Ukraine Your Way
+2018-12-03 11:40:53 INFO  [main]:100 - List of points generated automatically: Coín, Lourdes, Melilla, Castres
+2018-12-03 11:40:53 INFO  [main]:135 - Tour date generated automatically: 23.0.2019
+2018-12-03 11:40:53 INFO  [main]:27 - AirTour GoodTour19 saved
+2018-12-03 11:40:53 INFO  [main]:92 - App is off
