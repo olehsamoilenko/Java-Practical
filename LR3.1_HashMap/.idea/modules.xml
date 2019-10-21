@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Practical.iml" filepath="$PROJECT_DIR$/.idea/Java-Practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LR3.1_HashMap.iml" filepath="$PROJECT_DIR$/LR3.1_HashMap.iml" />
     </modules>
   </component>
 </project>
