@@ -1,0 +1,1 @@
+insert into Bus (numberplate) values ('BT4295AA')
