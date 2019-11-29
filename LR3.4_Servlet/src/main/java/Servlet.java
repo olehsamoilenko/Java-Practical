@@ -6,18 +6,20 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet(name = "Servlet", urlPatterns = {"/osamoile"})
+// TODO: url pattern
+@WebServlet("/")
 public class Servlet extends HttpServlet {
-    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
+    private static BusDAO bdao;
+
+    static {
+        bdao = new BusDAO();
     }
 
     // TODO: try remove web.iml
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        response.setContentType("text/html");
-        PrintWriter out = response.getWriter();
-        out.println("<h1>hello</h1>");
-        out.flush();
+        PrintWriter printWriter = response.getWriter();
+        printWriter.write("hello world");
     }
 }
