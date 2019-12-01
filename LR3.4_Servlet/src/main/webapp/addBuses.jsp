@@ -11,5 +11,9 @@
         <input type="text" name="numberplate" />
         <input type="submit" value="Submit" />
     </form>
+
+    <form action="/showBusOnRoute">
+        <button type="submit">Back</button>
+    </form>
 </body>
 </html>

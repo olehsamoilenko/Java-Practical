@@ -26,6 +26,9 @@
     <form action="/addBuses">
         <button type="submit">Add new bus</button>
     </form>
+    <form action="/showBusOnRoute">
+        <button type="submit">Back</button>
+    </form>
 
 </body>
 </html>

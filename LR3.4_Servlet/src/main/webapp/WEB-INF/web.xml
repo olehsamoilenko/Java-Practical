@@ -39,4 +39,14 @@
         <servlet-name>SHOW-ROUTES</servlet-name>
         <url-pattern>/showRoutes</url-pattern>
     </servlet-mapping>
+
+    <servlet>
+        <servlet-name>SHOW-BUS-ON-ROUTE</servlet-name>
+        <servlet-class>ShowBusOnRouteServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SHOW-BUS-ON-ROUTE</servlet-name>
+        <url-pattern>/showBusOnRoute</url-pattern>
+    </servlet-mapping>
+
 </web-app>

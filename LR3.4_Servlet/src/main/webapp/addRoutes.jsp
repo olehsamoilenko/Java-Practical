@@ -15,5 +15,9 @@
         <input type="text" name="distance" /><br>
         <input type="submit" value="Submit" />
     </form>
+
+    <form action="/showBusOnRoute">
+        <button type="submit">Back</button>
+    </form>
 </body>
 </html>

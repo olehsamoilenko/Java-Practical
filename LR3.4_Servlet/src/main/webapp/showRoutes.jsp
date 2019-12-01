@@ -30,6 +30,9 @@
     <form action="/addRoutes">
         <button type="submit">Add new route</button>
     </form>
+    <form action="/showBusOnRoute">
+        <button type="submit">Back</button>
+    </form>
 
 </body>
 </html>
