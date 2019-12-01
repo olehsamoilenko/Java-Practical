@@ -27,7 +27,7 @@
         </tbody>
     </table>
 
-    <form action="/addRoute">
+    <form action="/addRoutes">
         <button type="submit">Add new route</button>
     </form>
 

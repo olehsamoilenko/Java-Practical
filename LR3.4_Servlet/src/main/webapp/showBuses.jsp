@@ -23,7 +23,7 @@
         </tbody>
     </table>
 
-    <form action="/add">
+    <form action="/addBuses">
         <button type="submit">Add new bus</button>
     </form>
 

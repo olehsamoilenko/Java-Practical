@@ -5,10 +5,10 @@
     <title>Title</title>
 </head>
 <body>
-    <form action="show" method="post">
+    <form action="/showBuses" method="post">
         <h3>Creating new bus</h3>
         Enter a numberplate:
-        <input type="text" name="userId" />
+        <input type="text" name="numberplate" />
         <input type="submit" value="Submit" />
     </form>
 </body>

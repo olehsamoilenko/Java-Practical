@@ -5,21 +5,30 @@
          version="3.1">
 
     <servlet>
-        <servlet-name>ADD</servlet-name>
-        <servlet-class>AddServlet</servlet-class>
+        <servlet-name>ADD-BUSES</servlet-name>
+        <servlet-class>AddBusesServlet</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>ADD</servlet-name>
-        <url-pattern>/add</url-pattern>
+        <servlet-name>ADD-BUSES</servlet-name>
+        <url-pattern>/addBuses</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ADD-ROUTES</servlet-name>
+        <servlet-class>AddRoutesServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ADD-ROUTES</servlet-name>
+        <url-pattern>/addRoutes</url-pattern>
     </servlet-mapping>
     
     <servlet>
-        <servlet-name>SHOW</servlet-name>
-        <servlet-class>ShowServlet</servlet-class>
+        <servlet-name>SHOW-BUSES</servlet-name>
+        <servlet-class>ShowBusesServlet</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>SHOW</servlet-name>
-        <url-pattern>/show</url-pattern>
+        <servlet-name>SHOW-BUSES</servlet-name>
+        <url-pattern>/showBuses</url-pattern>
     </servlet-mapping>
 
     <servlet>

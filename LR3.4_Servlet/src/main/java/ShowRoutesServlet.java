@@ -23,14 +23,22 @@ public class ShowRoutesServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
         /* came from addRoutes.jsp */
-        String startCity = request.getParameter("startCity");
-        String endCity = request.getParameter("endCity");
-        int distance = new Integer(request.getParameter("distance"));
+        String startCity = "", endCity = "";
+        int distance = 0;
 
-        rdao.add(new Route(startCity, endCity, distance));
-
-        request.setAttribute("routes", rdao.getAsList());
-        RequestDispatcher rd = request.getRequestDispatcher("showRoutes.jsp");
-        rd.forward(request, response);
+        try {
+            startCity = request.getParameter("startCity");
+            endCity = request.getParameter("endCity");
+            distance = Integer.parseInt(request.getParameter("distance"));
+        } catch (NumberFormatException e) {
+            e.printStackTrace();
+        } finally {
+            if (startCity != "" && endCity != "" && distance > 0) {
+                rdao.add(new Route(startCity, endCity, distance));
+            }
+            request.setAttribute("routes", rdao.getAsList());
+            RequestDispatcher rd = request.getRequestDispatcher("showRoutes.jsp");
+            rd.forward(request, response);
+        }
     }
 }

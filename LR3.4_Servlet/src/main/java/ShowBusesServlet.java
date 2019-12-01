@@ -5,7 +5,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-public class ShowServlet extends HttpServlet {
+public class ShowBusesServlet extends HttpServlet {
 
     private static BusDAO bdao;
 
@@ -16,14 +16,14 @@ public class ShowServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         req.setAttribute("buses", bdao.getAsList());
-        RequestDispatcher rd = req.getRequestDispatcher("show.jsp");
+        RequestDispatcher rd = req.getRequestDispatcher("showBuses.jsp");
         rd.forward(req, resp);
     }
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
-        /* came from add.jsp */
-        String userId = request.getParameter("userId");
+        /* came from addBuses.jsp */
+        String userId = request.getParameter("numberplate");
         if (userId.length() == 8
             && Character.isLetter(userId.charAt(0))
             && Character.isLetter(userId.charAt(1))
@@ -38,7 +38,7 @@ public class ShowServlet extends HttpServlet {
         }
 
         request.setAttribute("buses", bdao.getAsList());
-        RequestDispatcher rd = request.getRequestDispatcher("show.jsp");
+        RequestDispatcher rd = request.getRequestDispatcher("showBuses.jsp");
         rd.forward(request, response);
     }
 }
