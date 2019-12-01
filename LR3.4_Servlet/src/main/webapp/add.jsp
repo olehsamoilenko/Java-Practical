@@ -5,7 +5,7 @@
     <title>Title</title>
 </head>
 <body>
-    <form action="add" method="post">
+    <form action="show" method="post">
         <input type="text" name="userId" />
         <input type="submit" value="Submit" />
     </form>

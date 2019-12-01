@@ -5,20 +5,20 @@
          version="3.1">
 
     <servlet>
-        <servlet-name>Servlet</servlet-name>
-        <servlet-class>Servlet</servlet-class>
+        <servlet-name>ADD</servlet-name>
+        <servlet-class>AddServlet</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>Servlet</servlet-name>
-        <url-pattern>/osamoile</url-pattern>
+        <servlet-name>ADD</servlet-name>
+        <url-pattern>/add</url-pattern>
     </servlet-mapping>
     
     <servlet>
-        <servlet-name>Add</servlet-name>
-        <servlet-class>ServletAdd</servlet-class>
+        <servlet-name>SHOW</servlet-name>
+        <servlet-class>ShowServlet</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>Add</servlet-name>
-        <url-pattern>/add</url-pattern>
+        <servlet-name>SHOW</servlet-name>
+        <url-pattern>/show</url-pattern>
     </servlet-mapping>
 </web-app>

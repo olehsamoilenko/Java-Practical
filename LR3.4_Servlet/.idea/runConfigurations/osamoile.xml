@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="osamoile" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.49" ALTERNATIVE_JRE_ENABLED="false">
-    <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/osamoile" />
+    <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/add" />
     <option name="UPDATING_POLICY" value="restart-server" />
     <deployment>
       <artifact name="LR3.4_Servlet:war exploded">
