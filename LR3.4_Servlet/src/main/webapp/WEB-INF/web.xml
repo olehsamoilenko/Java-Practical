@@ -21,4 +21,13 @@
         <servlet-name>SHOW</servlet-name>
         <url-pattern>/show</url-pattern>
     </servlet-mapping>
+
+    <servlet>
+        <servlet-name>SHOW-ROUTES</servlet-name>
+        <servlet-class>ShowRoutesServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SHOW-ROUTES</servlet-name>
+        <url-pattern>/showRoutes</url-pattern>
+    </servlet-mapping>
 </web-app>

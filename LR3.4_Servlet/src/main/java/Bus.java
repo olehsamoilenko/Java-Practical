@@ -1,6 +1,6 @@
 public class Bus {
 
-    private long id = -1; /* TODO: get rid of */
+    private long id = -1;
     private String numberplate = "";
 
     public Bus(String numberplate) {
