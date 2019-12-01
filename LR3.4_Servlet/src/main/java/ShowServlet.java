@@ -15,7 +15,9 @@ public class ShowServlet extends HttpServlet {
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
+        // move from add.jsp
         String userId = request.getParameter("userId");
+        bdao.add(new Bus(userId));
 
         request.setAttribute("buses", bdao.getAsList());
 //        response.sendRedirect("show.jsp");

@@ -21,5 +21,10 @@
             </c:forEach>
         </tbody>
     </table>
+
+    <form action="/add">
+        <button type="submit">Add new bus</button>
+    </form>
+
 </body>
 </html>

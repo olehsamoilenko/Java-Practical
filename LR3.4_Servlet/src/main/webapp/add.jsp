@@ -6,6 +6,8 @@
 </head>
 <body>
     <form action="show" method="post">
+        <h3>Creating new bus</h3>
+        Enter a numberplate:
         <input type="text" name="userId" />
         <input type="submit" value="Submit" />
     </form>
