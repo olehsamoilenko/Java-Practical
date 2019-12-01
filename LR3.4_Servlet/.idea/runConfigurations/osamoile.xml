@@ -1,9 +1,9 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="osamoile" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.16 (Ubuntu)" ALTERNATIVE_JRE_ENABLED="false">
+  <configuration default="false" name="osamoile" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.49" ALTERNATIVE_JRE_ENABLED="false">
     <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/osamoile" />
     <option name="UPDATING_POLICY" value="restart-server" />
     <deployment>
-      <artifact name="LR3.4_Servlet:Web exploded">
+      <artifact name="LR3.4_Servlet:war exploded">
         <settings>
           <option name="CONTEXT_PATH" value="/" />
         </settings>
@@ -53,7 +53,7 @@
     <method v="2">
       <option name="Make" enabled="true" />
       <option name="BuildArtifacts" enabled="true">
-        <artifact name="LR3.4_Servlet:Web exploded" />
+        <artifact name="LR3.4_Servlet:war exploded" />
       </option>
     </method>
   </configuration>

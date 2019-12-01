@@ -4,9 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>LR3.3_JDBC</groupId>
-    <artifactId>LR3.3_JDBC</artifactId>
+    <groupId>LR3.4_Servlet</groupId>
+    <artifactId>LR3.4_Servlet</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>war</packaging>
     <build>
         <plugins>
             <plugin>
@@ -21,8 +22,6 @@
     </build>
 
     <dependencies>
-        <!-- osamoile -->
-        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
@@ -32,7 +31,6 @@
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
             <version>4.0.1</version>
-            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
@@ -40,5 +38,4 @@
             <version>1.2</version>
         </dependency>
     </dependencies>
-
 </project>
