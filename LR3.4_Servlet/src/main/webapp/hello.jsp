@@ -7,18 +7,18 @@
 <body>
     <table>
         <thead>
-        <tr>
-            <th>Bus Id</th>
-            <th>Numberplate</th>
-        </tr>
+            <tr>
+                <th>Bus Id</th>
+                <th>Numberplate</th>
+            </tr>
         </thead>
         <tbody>
-        <c:forEach items="${buses}"  var="bus">
-            <tr>
-                <td>${bus.id}</td>
-                <td>${bus.numberplate}</td>
-            </tr>
-        </c:forEach>
+            <c:forEach items="${buses}"  var="bus">
+                <tr>
+                    <td>${bus.id}</td>
+                    <td>${bus.numberplate}</td>
+                </tr>
+            </c:forEach>
         </tbody>
     </table>
 </body>

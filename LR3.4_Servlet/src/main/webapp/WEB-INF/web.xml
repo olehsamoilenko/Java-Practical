@@ -12,4 +12,13 @@
         <servlet-name>Servlet</servlet-name>
         <url-pattern>/osamoile</url-pattern>
     </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>Add</servlet-name>
+        <servlet-class>ServletAdd</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Add</servlet-name>
+        <url-pattern>/add</url-pattern>
+    </servlet-mapping>
 </web-app>

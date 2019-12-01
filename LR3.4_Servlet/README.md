@@ -1,8 +1,7 @@
 In this project deployment is performed by **tomcat8** accordingly to 
 [this guide](https://www.youtube.com/watch?v=licQZlIenAk).
-```diff
+
 - Warning: don't use packet manager to install tomcat, download it from 
-```
 [official site](https://tomcat.apache.org/download-80.cgi)
 
 In case you have issues with **artifacts** follow 
