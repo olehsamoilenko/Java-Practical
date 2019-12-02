@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+
+    <servlet>
+        <servlet-name>ADD-BUSES</servlet-name>
+        <servlet-class>AddBusesServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ADD-BUSES</servlet-name>
+        <url-pattern>/addBuses</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ADD-ROUTES</servlet-name>
+        <servlet-class>AddRoutesServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ADD-ROUTES</servlet-name>
+        <url-pattern>/addRoutes</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>SHOW-BUSES</servlet-name>
+        <servlet-class>ShowBusesServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SHOW-BUSES</servlet-name>
+        <url-pattern>/showBuses</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>SHOW-ROUTES</servlet-name>
+        <servlet-class>ShowRoutesServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SHOW-ROUTES</servlet-name>
+        <url-pattern>/showRoutes</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>SHOW-BUS-ON-ROUTE</servlet-name>
+        <servlet-class>ShowBusOnRouteServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SHOW-BUS-ON-ROUTE</servlet-name>
+        <url-pattern>/showBusOnRoute</url-pattern>
+    </servlet-mapping>
+
+</web-app>
